@@ -448,7 +448,7 @@ export default function Cadastro() {
                         className={styles.InputField}
                      />
                      <Image
-                        src="/Icones/perfil.png"
+                        src="/Icones/perfil.svg"
                         width={25}
                         height={25}
                         alt="Icone Usuário"
